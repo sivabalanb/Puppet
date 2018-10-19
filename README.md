@@ -1,0 +1,2 @@
+# Puppet
+Snippets of puppet
