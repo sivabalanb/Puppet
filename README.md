@@ -1,2 +1,2 @@
 # Puppet
-Snippets of puppet
+Collection of puppet snippets
